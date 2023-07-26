@@ -1,0 +1,3 @@
+old_word new_word
+new_word
+old_word
